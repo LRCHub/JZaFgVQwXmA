@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ディスクローズ・フリック / 重音テトSV",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2026-02-11T07:53:42.523771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディスクローズ・フリック",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_ディスクローズ・フリック_柊マグネタイト.txt"
+    }
+  ]
+}
